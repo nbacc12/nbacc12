@@ -53,8 +53,7 @@ I'm a software developer with a background in front-end & back-end development. 
 	A user-friendly platform for effortless task coordination and incentivization. Users can suggest, prioritize, and actively participate, earning equitable rewards.
 	</p>
 	<p>
-	<strong>Tech Stack:</strong>
- 	<i>Next.js, Tailwind Css, Supabase</i>	
+	<strong><i>Next.js, Tailwind CSS, Shadcn UI, Supabase</i></strong>
 	</p>
 	<p>
 	<i>Official repo handed over to client.  Repo link provided here is for a copied repo used for testing. </i>
@@ -62,11 +61,15 @@ I'm a software developer with a background in front-end & back-end development. 
 	</td>
  	</br>
 	<td>
-	fdasfdsaf
+	Project 2
 	</td>
 </tr>
 
 <tr>
+
+<td>
+	Project 3
+</td>
 <td>
 				<h3 align="center">Incented Protocol</h3>
 				<div align="center">  
