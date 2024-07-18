@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Nazim👋
+
+<h1 align="center">👋 Hello, I'm Nazim</h1>
 
 <!--
 **nbacc12/nbacc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
