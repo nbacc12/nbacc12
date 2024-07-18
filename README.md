@@ -36,11 +36,50 @@ I'm a software developer with a background in front-end & back-end development. 
 <table>
 
 <tr>
+
+	<td align="center"  width="50%">
+ 
+	<h3>Incented Protocol</h3>
+	<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
+	</br>
+	</br>
+	
+ 	<p>
+	<a href="https://github.com/Wookie3/incented-protocol-test" target="_blank">
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	<a href="https://incented-protocol.vercel.app/">
+        	<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+	</a>
+	</p>
+
+	<p>
+	A user-friendly platform for effortless task coordination and incentivization. Users can suggest, prioritize, and actively participate, earning equitable rewards.
+	</p>
+
+	<p>
+	<strong>Tech Stack:</strong>
+ 	<i>Next.js, Tailwind Css, Supabase</i>	
+	</p>
+
+	<p>
+	<i>Official repo handed over to client.  Repo link provided here is for a copied repo used for testing. </i>
+	</p>
+	
+	</td>
+
+	<td>
+	fdasfdsaf
+	</td>
+ 
+</tr>
+
+<tr>
 <td>
 				<h3 align="center">Incented Protocol</h3>
 				<div align="center">  
 					<a href='https://devpost.com/software/surely-insured' >
-						<img src="surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
 					</a>
 					<br>
 					<br>
