@@ -36,14 +36,12 @@ I'm a software developer with a background in front-end & back-end development. 
 <table>
 
 <tr>
-
 	<td align="center"  width="50%">
- 
 	<h3>Incented Protocol</h3>
 	<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
 	</br>
 	</br>
-	
+ 
  	<p>
 	<a href="https://github.com/Wookie3/incented-protocol-test" target="_blank">
 		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
@@ -71,7 +69,6 @@ I'm a software developer with a background in front-end & back-end development. 
 	<td>
 	fdasfdsaf
 	</td>
- 
 </tr>
 
 <tr>
