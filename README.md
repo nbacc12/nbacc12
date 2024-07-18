@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nazim
 
-I'm a software developer with a background in front-end & back-end development.  Currently seeking to collaborate on new project and engaged in learning new technologies. 
+I'm a software developer with a background in front-end & back-end development.  Currently seeking to collaborate on new projects and engaged in learning new technologies. 
 
 ## 🧰 Skills
 
