@@ -41,7 +41,6 @@ I'm a software developer with a background in front-end & back-end development. 
 	<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
 	</br>
 	</br>
- 
  	<p>
 	<a href="https://github.com/Wookie3/incented-protocol-test" target="_blank">
 		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
@@ -50,22 +49,18 @@ I'm a software developer with a background in front-end & back-end development. 
         	<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 	</a>
 	</p>
-
 	<p>
 	A user-friendly platform for effortless task coordination and incentivization. Users can suggest, prioritize, and actively participate, earning equitable rewards.
 	</p>
-
 	<p>
 	<strong>Tech Stack:</strong>
  	<i>Next.js, Tailwind Css, Supabase</i>	
 	</p>
-
 	<p>
 	<i>Official repo handed over to client.  Repo link provided here is for a copied repo used for testing. </i>
 	</p>
-	
 	</td>
-
+ 	</br>
 	<td>
 	fdasfdsaf
 	</td>
