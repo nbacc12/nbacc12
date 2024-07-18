@@ -54,7 +54,7 @@ I'm a software developer with a background in front-end & back-end development. 
 					</p>
 					<p><strong>HTML, CSS, Javascript, React, Python (Flask), Geotab Datasets</strong></p>
           <p>
-            Hack the 6ix 2021 (Geotab Challenge Winner) <br><br>A tool for car insurance companies to leverage Geotab telematics and location data to make better data-driven insurance premium pricing decisions.
+            Hfdfdinner <br><br>A tool for car insurance companies to leverage Geotab telematics and location data to make better data-driven insurance premium pricing decisions.
 					</p>
 				</div>
 			</td>
