@@ -32,7 +32,43 @@ I'm a software developer with a background in front-end & back-end development. 
 
 ## ⚙️ Projects
 
+<div>
+<table>
 
+<tr>
+<td>
+				<h3 align="center">Incented Protocol</h3>
+				<div align="center">  
+					<a href='https://devpost.com/software/surely-insured' >
+						<img src="surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Wookie3/incented-protocol-test" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://incented-protocol.vercel.app/">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript, React, Python (Flask), Geotab Datasets</strong></p>
+          <p>
+            Hack the 6ix 2021 (Geotab Challenge Winner) <br><br>A tool for car insurance companies to leverage Geotab telematics and location data to make better data-driven insurance premium pricing decisions.
+					</p>
+				</div>
+			</td>
+  
+</tr>
+
+
+
+  
+</table>
+
+
+  
+</div>
 
 
 <!--
