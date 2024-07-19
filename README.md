@@ -64,7 +64,7 @@ I'm a software developer with a background in front-end & back-end development. 
   	<td width="50%">
 	<h3 align="center">React Foundations</h3>
 	<div align="center">
-	<img src="react-foundation.png" alt="React Foundations" width="450px" height="350px" />
+	<img src="react-foundation.png" alt="React Foundations" width="500px" height="350px" />
 	</br>
 	</br>
  	<p>
