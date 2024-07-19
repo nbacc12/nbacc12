@@ -36,8 +36,9 @@ I'm a software developer with a background in front-end & back-end development. 
 <table>
 
 <tr>
-	<td align="center"  width="50%">
-	<h3>Incented Protocol</h3>
+	<td width="50%">
+	<h3 align="center">Incented Protocol</h3>
+	<div align="center">
 	<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
 	</br>
 	</br>
@@ -58,50 +59,46 @@ I'm a software developer with a background in front-end & back-end development. 
 	<p>
 	<i>Official repo handed over to client.  Repo link provided here is for a copied repo used for testing. </i>
 	</p>
+	</div>
 	</td>
- 	</br>
-	<td>
-	Project 2
+  	<td width="50%">
+	<h3 align="center">React Foundations</h3>
+	<div align="center">
+	<img src="react-foundation.png" alt="React Foundations" width="450px" height="350px" />
+	</br>
+	</br>
+ 	<p>
+	<a href="https://github.com/nbacc12/react-foundation" target="_blank">
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	<a href="https://incented-protocol.vercel.app/">
+        	<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+	</a>
+	</p>
+	<p>
+	React Foundations is a web app created to review various hook feature available in React.  Moreover, the app examines different methods for fetching backend data.
+	</p>
+	<p>
+	<strong><i>React.js, Tailwind CSS, Headless UI</i></strong>
+	</p>
+	</div>
 	</td>
 </tr>
 
+<!--
 <tr>
-
-<td>
-	Project 3
-</td>
-<td>
-				<h3 align="center">Incented Protocol</h3>
-				<div align="center">  
-					<a href='https://devpost.com/software/surely-insured' >
-						<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/Wookie3/incented-protocol-test" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://incented-protocol.vercel.app/">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-					</p>
-					<p><strong>HTML, CSS, Javascript, React, Python (Flask), Geotab Datasets</strong></p>
-          <p>
-            Hfdfdinner <br><br>A tool for car insurance companies to leverage Geotab telematics and location data to make better data-driven insurance premium pricing decisions.
-					</p>
-				</div>
-			</td>
-  
+	<td>
+ 		Project 3
+	</td>
+	<td>
+ 		Project 4
+	</td>
 </tr>
+-->
 
 
-
-  
 </table>
 
-
-  
 </div>
 
 
