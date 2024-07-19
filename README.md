@@ -71,7 +71,7 @@ I'm a software developer with a background in front-end & back-end development. 
 	<a href="https://github.com/nbacc12/react-foundation" target="_blank">
 		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 	</a>  
-	<a href="https://incented-protocol.vercel.app/">
+	<a href="https://react-foundations.netlify.app">
         	<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 	</a>
 	</p>
