@@ -86,20 +86,31 @@ I'm a software developer with a background in front-end & back-end development. 
 	</td>
 </tr>
 
-<!--
-<tr>
-	<td>
- 		Project 3
-	</td>
-	<td>
- 		Project 4
-	</td>
-</tr>
--->
 
+<tr>
+	<td width="50%">
+	<h3 align="center">MyStream Review App Database</h3>
+	<div align="center">
+	<img src="mystreamreview_db_eer.png" alt="Mystream Review Database" width="400px" height="300px" />
+	</br>
+	</br>
+ 	<p>
+	<a href="https://github.com/nbacc12/MyStreamReviewApp_MySql_DB" target="_blank">
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	</p>
+	<p>
+	A relational database built using MySQL for a streaming series review web app.  Users can rate and review a tv series currently available on a streaming platform. 
+	</p>
+	<p>
+	<strong><i>MySQL</i></strong>
+	</p>
+	</div>
+	</td>
+	
+</tr>
 
 </table>
-
 </div>
 
 
