@@ -107,7 +107,25 @@ I'm a software developer with a background in front-end & back-end development. 
 	</p>
 	</div>
 	</td>
-	
+ 	<td width="50%">
+	<h3 align="center">Password Manager</h3>
+	<div align="center">
+	<img src="passwordmanager.png" alt="Password Manager" width="400px" height="300px" />
+	</br>
+	</br>
+ 	<p>
+	<a href="https://github.com/nbacc12/password-manager.git" target="_blank">
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	</p>
+	<p>
+	A GUI-based local application built using Python.  Users are able to store passwords in a text file.  In addition, complex random passwords can be generated.  
+	</p>
+	<p>
+	<strong><i>Python</i></strong>
+	</p>
+	</div>
+	</td>	
 </tr>
 
 </table>
