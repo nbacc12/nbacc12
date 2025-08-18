@@ -68,8 +68,7 @@ I'm a software developer with a background in front-end & back-end development. 
 	</a>  
 	</p>
 	<p>
-	A data analysis of the best performing restaurants in New York City to model operational standards
-	React Foundations is a web app created to review various hook feature available in React.  Moreover, the app examines different methods for fetching backend data.
+	A data analysis of restaurants in New York City focused on identifying the best performers to model operational standards and areas for market growth opportunities.  
 	</p>
 	<p>
 	<strong><i>Python, MongoDB, Pymongo, Pandas, Matplotlib, Seaborn</i></strong>
