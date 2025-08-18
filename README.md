@@ -49,8 +49,7 @@ I'm a software developer with a background in front-end & back-end development. 
 	</a>  
 	</p>
 	<p>
-	
-	A user-friendly platform for effortless task coordination and incentivization. Users can suggest, prioritize, and actively participate, earning equitable rewards.
+	A data analytics project about constructing a machine learning model to predict students at risk of depression.  Data analysis and modeling was completed in a Jupyter Notebook. 
 	</p>
 	<p>
 	<strong><i>Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn</i></strong>
