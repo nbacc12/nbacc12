@@ -40,7 +40,7 @@ I'm a software developer with a background in front-end & back-end development. 
 	<td width="50%">
 	<h3 align="center">Student Depression Predictive Model</h3>
 	<div align="center">
-	<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
+	<img src="student-depression-model.png" alt="Student Depression Model" width="500px" height="350px" />
 	</br>
 	</br>
  	<p>
@@ -49,6 +49,7 @@ I'm a software developer with a background in front-end & back-end development. 
 	</a>  
 	</p>
 	<p>
+	
 	A user-friendly platform for effortless task coordination and incentivization. Users can suggest, prioritize, and actively participate, earning equitable rewards.
 	</p>
 	<p>
