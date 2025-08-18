@@ -38,6 +38,50 @@ I'm a software developer with a background in front-end & back-end development. 
 
 <tr>
 	<td width="50%">
+	<h3 align="center">Student Depression Predictive Model</h3>
+	<div align="center">
+	<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
+	</br>
+	</br>
+ 	<p>
+	<a href="https://github.com/nbacc12/student_depression_model.git" target="_blank">
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	</p>
+	<p>
+	A user-friendly platform for effortless task coordination and incentivization. Users can suggest, prioritize, and actively participate, earning equitable rewards.
+	</p>
+	<p>
+	<strong><i>Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn</i></strong>
+	</p>
+	</div>
+	</td>
+  	<td width="50%">
+	<h3 align="center">dd</h3>
+	<div align="center">
+	<img src="react-foundation.png" alt="React Foundations" width="500px" height="350px" />
+	</br>
+	</br>
+ 	<p>
+	<a href="https://github.com/nbacc12/react-foundation" target="_blank">
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	<a href="https://react-foundations.netlify.app">
+        	<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+	</a>
+	</p>
+	<p>
+	React Foundations is a web app created to review various hook feature available in React.  Moreover, the app examines different methods for fetching backend data.
+	</p>
+	<p>
+	<strong><i>React.js, Tailwind CSS, Headless UI</i></strong>
+	</p>
+	</div>
+	</td>
+</tr>
+
+<tr>
+	<td width="50%">
 	<h3 align="center">Incented Protocol</h3>
 	<div align="center">
 	<img src="Incented-Protocol.png" alt="Incented Protocol" width="400px" height="300px" />
