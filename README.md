@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nazim
 
-I'm a software developer with a background in front-end/back-end web development and big data analytics.  Currently seeking to collaborate on new projects and learn new technologies
+I'm a software developer and data analyst focused on building front-end/back-end applications and deriving insights from data. I enjoy learning new technologies and open to collaborating on interesting projects.
 
 ## 🧰 Skills
 
