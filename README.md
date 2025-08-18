@@ -21,6 +21,8 @@ I'm a software developer with a background in front-end & back-end development. 
 - ***Databases:*** </br>
 
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
   
 - ***Tools:*** </br>
 
@@ -30,6 +32,7 @@ I'm a software developer with a background in front-end & back-end development. 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-FFA500?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## ⚙️ Projects
 
