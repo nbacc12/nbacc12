@@ -59,7 +59,7 @@ I'm a software developer with a background in front-end & back-end development. 
   	<td width="50%">
 	<h3 align="center">NYC Restaurants Performance Analysis</h3>
 	<div align="center">
-	<img src="nyc-restaurant-collection.png" alt="NYC Restaurants Performance Analysis" width="500px" height="350px" />
+	<img src="nyc-restaurant-collection.png" alt="NYC Restaurants Analysis" width="500px" height="350px" />
 	</br>
 	</br>
  	<p>
@@ -71,7 +71,7 @@ I'm a software developer with a background in front-end & back-end development. 
 	React Foundations is a web app created to review various hook feature available in React.  Moreover, the app examines different methods for fetching backend data.
 	</p>
 	<p>
-	<strong><i>React.js, Tailwind CSS, Headless UI</i></strong>
+	<strong><i>Python, MongoDB, Pymongo, Pandas, Matplotlib, Seaborn</i></strong>
 	</p>
 	</div>
 	</td>
