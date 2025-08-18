@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nazim
 
-I'm a software developer and data analyst focused on building front-end/back-end applications and deriving insights from data. I enjoy learning new technologies and open to collaborating on interesting projects.
+I'm a software developer and data analyst focused on building responsive web applications and uncovering valuable insights from data. I'm always eager to learn new technologies and collaborate on challenging projects.
 
 ## 🧰 Skills
 
