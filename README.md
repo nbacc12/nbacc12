@@ -59,7 +59,7 @@ I'm a software developer with a background in front-end & back-end development. 
   	<td width="50%">
 	<h3 align="center">NYC Restaurants Performance Analysis</h3>
 	<div align="center">
-	<img src="react-foundation.png" alt="React Foundations" width="500px" height="350px" />
+	<img src="nyc-restaurant-collection.png" alt="NYC Restaurants Performance Analysis" width="500px" height="350px" />
 	</br>
 	</br>
  	<p>
