@@ -57,18 +57,15 @@ I'm a software developer with a background in front-end & back-end development. 
 	</div>
 	</td>
   	<td width="50%">
-	<h3 align="center">dd</h3>
+	<h3 align="center">NYC Restaurants Performance Analysis</h3>
 	<div align="center">
 	<img src="react-foundation.png" alt="React Foundations" width="500px" height="350px" />
 	</br>
 	</br>
  	<p>
-	<a href="https://github.com/nbacc12/react-foundation" target="_blank">
+	<a href="https://github.com/nbacc12/nyc-restaurants-performance-analysis.git" target="_blank">
 		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 	</a>  
-	<a href="https://react-foundations.netlify.app">
-        	<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-	</a>
 	</p>
 	<p>
 	React Foundations is a web app created to review various hook feature available in React.  Moreover, the app examines different methods for fetching backend data.
