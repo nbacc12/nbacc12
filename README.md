@@ -41,6 +41,7 @@ I'm a software developer and data analyst focused on building responsive web app
   ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Studio3T](https://img.shields.io/badge/Studio_3T-3670A0?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## ⚙️ Projects
 
